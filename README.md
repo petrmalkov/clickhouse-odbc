@@ -1,4 +1,4 @@
-## Building (Linux)
+### Building (Linux)
 
 1. Install unixodbc >= 2.3.0
 ```bash
